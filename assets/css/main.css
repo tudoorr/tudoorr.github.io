@@ -43,10 +43,14 @@ h3
 h4,
 h5,
 h6,
-p,
 i,
 span {
     color: #fff;
+}
+
+p {
+    color: #fff;
+    font-size: 26px;
 }
 
 figure {
